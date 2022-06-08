@@ -4,6 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulk216)](https://github.com/anuraghazra/github-readme-stats)
 
+<p>Hello my name is Rahul ! My interest for web development started back in 2019 .Fast forward to today I've had the oppurtunity to work with some amazing people and build some amazing projects on multiple technology stacks. I have done my B.E in Computer Science and Engineering from Canara Engineering College, Mangalore, Karnataka, India</p>
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +16,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
+
