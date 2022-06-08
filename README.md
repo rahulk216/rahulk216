@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulk216)](https://github.com/anuraghazra/github-readme-stats)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiq-dev&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
