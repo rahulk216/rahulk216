@@ -2,7 +2,6 @@
 
 <p>Hello my name is Rahul ! My interest for web development started back in 2019 .Fast forward to today I've had the oppurtunity to work with some amazing people and build some amazing projects on multiple technology stacks. I have done my B.E in Computer Science and Engineering from Canara Engineering College, Mangalore, Karnataka, India</p>
 
-<p>My main focus is to build web applications rich in User experience keeping customer satisfaction as a priority.</p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulk216&show_icons=true&theme=radical&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulk216)](https://github.com/anuraghazra/github-readme-stats)
